@@ -1,4 +1,4 @@
 # Marketing-Sales-Channel
 
 
-[Marketing Dashboard](https://public.tableau.com/app/profile/micah.richardson8684/viz/MicahsMarketingChannelDashboard/Story1?publish=yes)
+[Marketing Dashboard](https://public.tableau.com/views/MicahsMarketingChannelDashboard/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
